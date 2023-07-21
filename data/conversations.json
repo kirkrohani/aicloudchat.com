@@ -6,5 +6,10 @@
   {
     "participants": ["Student", "Frank"],
     "id": "2"
+  },
+  {
+    "participants": ["Frnak", "ChatGPT"],
+    "id": "3"
   }
+
 ]
